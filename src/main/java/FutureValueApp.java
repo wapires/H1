@@ -40,7 +40,7 @@ public class FutureValueApp {
 
             //see if the user wants to continue
             System.out.println("Github Demo");
-            
+            System.out.println("Let us know if you want to continue or not");
             System.out.println("Continue? (y/n): ");
             choice = sc.next();
             System.out.println();
